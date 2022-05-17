@@ -1,1 +1,1 @@
-# Applied-Data-Science-Project-IT-125
+# Applied Data Science Project IT-125
